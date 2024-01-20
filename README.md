@@ -30,30 +30,31 @@ Welcome to the Rock, Paper, Scissors game! This simple web-based game allows use
 
 Open the project in your preferred code editor.
 
-Usage
+## Usage
 
 Open the index.html file in a web browser.
 
 Click on the Rock, Paper, or Scissors images to make your move.
 
-Enjoy the game and see who emerges as the ultimate Rock, Paper, Scissors champion!
+Enjoy the game and see who emerges as the ultimate Rock, Paper, Scissors champion!.
 
-**How to Contribute**
+## How to Contribute
 
 If you would like to contribute to the project, follow these steps:
 
 -Fork the repository.
 
--Create a new branch: git checkout -b feature-new-feature
+-Create a new branch: git checkout -b feature-new-feature.
 
--Make your changes and commit them: git commit -m 'Add new feature'
+-Make your changes and commit them: git commit -m 'Add new feature.
 
--Push to the branch: git push origin feature-new-feature
+-Push to the branch: git push origin feature-new-feature.
 
 -Open a pull request.
 
-**License**
+## **License**
 This project is licensed under the MIT License.
+
 Feel free to customize the README further based on your preferences and additional details about your project.
 
 

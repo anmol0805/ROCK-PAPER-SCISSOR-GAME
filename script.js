@@ -6,12 +6,14 @@ let yourscore = 0;
 let compscore = 0;
 
 //------------------------------------------------------------------//
+/*
 const restart = reset.addEventListener("click", ()=>{
     msg.style.backgroundColor = "transparent";
     msg.innerHTML="Play your Move👆"
     you.innerText = 0;
     comp.innerText = 0;
 });
+*/
 //-----------------------------------------------------------------//
 let you = document.querySelector(".you")
 let comp = document.querySelector(".comp")
